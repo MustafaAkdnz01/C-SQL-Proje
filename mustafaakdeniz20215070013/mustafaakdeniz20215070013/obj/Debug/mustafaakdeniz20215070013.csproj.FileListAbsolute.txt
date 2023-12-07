@@ -1,0 +1,11 @@
+C:\Users\MUSTAFA\Desktop\ödev\mustafaakdeniz20215070013\mustafaakdeniz20215070013\bin\Debug\mustafaakdeniz20215070013.exe.config
+C:\Users\MUSTAFA\Desktop\ödev\mustafaakdeniz20215070013\mustafaakdeniz20215070013\bin\Debug\mustafaakdeniz20215070013.exe
+C:\Users\MUSTAFA\Desktop\ödev\mustafaakdeniz20215070013\mustafaakdeniz20215070013\bin\Debug\mustafaakdeniz20215070013.pdb
+C:\Users\MUSTAFA\Desktop\ödev\mustafaakdeniz20215070013\mustafaakdeniz20215070013\obj\Debug\mustafaakdeniz20215070013.csproj.AssemblyReference.cache
+C:\Users\MUSTAFA\Desktop\ödev\mustafaakdeniz20215070013\mustafaakdeniz20215070013\obj\Debug\mustafaakdeniz20215070013.Form1.resources
+C:\Users\MUSTAFA\Desktop\ödev\mustafaakdeniz20215070013\mustafaakdeniz20215070013\obj\Debug\mustafaakdeniz20215070013.Properties.Resources.resources
+C:\Users\MUSTAFA\Desktop\ödev\mustafaakdeniz20215070013\mustafaakdeniz20215070013\obj\Debug\mustafaakdeniz20215070013.csproj.GenerateResource.cache
+C:\Users\MUSTAFA\Desktop\ödev\mustafaakdeniz20215070013\mustafaakdeniz20215070013\obj\Debug\mustafaakdeniz20215070013.csproj.CoreCompileInputs.cache
+C:\Users\MUSTAFA\Desktop\ödev\mustafaakdeniz20215070013\mustafaakdeniz20215070013\obj\Debug\mustafaakdeniz20215070013.exe
+C:\Users\MUSTAFA\Desktop\ödev\mustafaakdeniz20215070013\mustafaakdeniz20215070013\obj\Debug\mustafaakdeniz20215070013.pdb
+C:\Users\MUSTAFA\Desktop\ödev\mustafaakdeniz20215070013\mustafaakdeniz20215070013\obj\Debug\mustafaakdeniz20215070013.Form2.resources
